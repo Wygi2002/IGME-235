@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+}
+
+header{
+    background-color: #B3E9C7;
+
+}
+
+body{
+    background-color: #8367C7;
+}
+
+.face{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    text-align: center;
+}
+#bio{
+    background-color: #B3E9C7
+}
+
+#Links{
+    background-color: #B3E9C7
+}
+
+h1,#bio,#Links,.face{
+    border-color: #5603AD;
+    border-width: 3px;
+    border-style: solid;
+   
+}
+
+.projects,.repo{
+    background-color: #C2F8CB;
+}
